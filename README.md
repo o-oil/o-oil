@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-👯 I’m looking to collaborate on ...
+
+
+👯 程序媛也爱写代码
 
 <!--
 **o-oil/o-oil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
